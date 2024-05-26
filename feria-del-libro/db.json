@@ -1,0 +1,32 @@
+{
+  "libros": [
+    {
+      "id": "1",
+      "nombre": "Cien Años de Soledad",
+      "genero": "Ficción",
+      "autor": "Gabriel García Márquez",
+      "precio": 20
+    },
+    {
+      "id": "2",
+      "nombre": "El Principito",
+      "genero": "Fantasía",
+      "autor": "Antoine de Saint-Exupéry",
+      "precio": 15
+    },
+    {
+      "id": "3",
+      "nombre": "Odisea",
+      "genero": "Narrativo",
+      "autor": "Homero",
+      "precio": "120"
+    },
+    {
+      "id": "4",
+      "nombre": "El Quijote",
+      "genero": "Novela",
+      "autor": "Miguel de Cervantes",
+      "precio": "158"
+    }
+  ]
+}
